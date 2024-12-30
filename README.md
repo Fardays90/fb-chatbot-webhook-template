@@ -50,3 +50,7 @@ Use the verification token you set earlier to verify the webhook.
 Test the Chatbot:
 
 Send messages to your Facebook page, and the chatbot should respond based on Dialogflow's responses.
+
+https://github.com/user-attachments/assets/f0c9a35f-754b-4721-bf25-d94162c9efb5
+
+
