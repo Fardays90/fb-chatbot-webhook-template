@@ -28,12 +28,17 @@ npm install
 Set up Environment Variables: You need to replace the placeholder variables in the index.js file with your actual credentials:
 
 Google Cloud Project ID: In the projectId variable, replace '' with your Dialogflow Google Cloud project ID.
+
 Dialogflow Service Account JSON: Place your Google service account key JSON file in the project directory and set the path in the following line:
-js
+
 process.env.GOOGLE_APPLICATION_CREDENTIALS = 'googleapplicationkey.json';  // Correct path to your service account JSON
+
 Facebook Access Token: Replace '' with your Facebook Page's access token.
+
 Verification Token: Replace '' with your custom webhook verification token.
+
 Run the Webhook Server: Run the server locally using the following command:
+
 node index.js
 
 Configure Webhook in Facebook Developer Console:
