@@ -1,0 +1,18 @@
+{
+  "name": "web-hook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fardin",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^6.13.0",
+    "apiai": "^4.0.3",
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "request": "^2.88.2"
+  }
+}
