@@ -13,6 +13,8 @@ This is a simple template for integrating a Facebook Messenger chatbot with Dial
 - Facebook Messenger access token and verify token
 - A Google Cloud project for Dialogflow
 
+https://github.com/user-attachments/assets/f0c9a35f-754b-4721-bf25-d94162c9efb5
+
 ## Prerequisites
 1. **Node.js & NPM**: Ensure you have Node.js installed. You can download it from [here](https://nodejs.org/).
 2. **Dialogflow Account**: Create a Dialogflow agent by following the guide [here](https://dialogflow.cloud.google.com/). 
@@ -51,6 +53,6 @@ Test the Chatbot:
 
 Send messages to your Facebook page, and the chatbot should respond based on Dialogflow's responses.
 
-https://github.com/user-attachments/assets/f0c9a35f-754b-4721-bf25-d94162c9efb5
+
 
 
